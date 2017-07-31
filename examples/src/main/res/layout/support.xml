@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Support"
+        android:id="@+id/txtSupport"
+        android:textAlignment="center"
+        android:textSize="35dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp" />
+
+    <TextView
+        android:id="@+id/txthelp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meeting Manager is a managerial app available for Android. It uses internet to transcribe speech to text and access the text file.  Why Meeting Manager?
+
+        1.	Meeting minutes in minutes –  Enter the details of meeting to be conducted and simply transcribe your meeting conversation to text using Meeting Manager.
+
+        2.	Ranking of the text –  Meeting Manager gives the ranking of the generated text of your meeting conducted along with the meeting details added for your convenience.
+
+
+        If you have any feedback, questions or concerns, please email us at:
+        meeting.manager.app@gmail.com"
+        android:textSize="16dp"
+        android:layout_below="@+id/txtSupport"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="17dp"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="27dp" />
+</RelativeLayout>
