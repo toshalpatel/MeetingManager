@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "258961324576",
+    "firebase_url": "https://managermeeting-e9710.firebaseio.com",
+    "project_id": "managermeeting-e9710",
+    "storage_bucket": "managermeeting-e9710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258961324576:android:522b689bba5fd5bc",
+        "android_client_info": {
+          "package_name": "com.ibm.watson.developer_cloud.android.examples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258961324576-48a7nri7rp0g8hfd9rudusgk6pc9jput.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqwJU2N1T5z2Got0nZvNU_mGehCB_m5q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
