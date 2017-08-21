@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573333596998",
+    "firebase_url": "https://speech-d73b3.firebaseio.com",
+    "project_id": "speech-d73b3",
+    "storage_bucket": "speech-d73b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573333596998:android:522b689bba5fd5bc",
+        "android_client_info": {
+          "package_name": "com.ibm.watson.developer_cloud.android.examples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573333596998-u0uon4mlg8t8igcp5n2ide0rcm4h8ljs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibm.watson.developer_cloud.android.examples",
+            "certificate_hash": "eebd55332ff934dabf9c305e9068b78539d54a5c"
+          }
+        },
+        {
+          "client_id": "573333596998-juq21i80maqaqpumgp1n91fseu1nhldo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwegsFfo1LJnDgdGBZoh66wmK0iuYr1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573333596998-juq21i80maqaqpumgp1n91fseu1nhldo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
